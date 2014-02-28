@@ -3,7 +3,7 @@
 - PHP 5.3.9+
   - php-mcrypt
   - php-pdo
-  - php-pdo-mysql
+  - php-pdo-mysql `yum install php-pdo_mysql`
   - php-mbstring
 - Composer (MAC下`brew install composer`或去官网[composer](http://getcomposer.org))
 - Apache/Nginx
